@@ -207,4 +207,4 @@ PDF to Word is the complete free version with all features and updates included.
 Download PDF to Word now and transform your PDF documents into editable Word files with ease!
 
 ---
-**Last updated:** 2026-10-18 02:22:47 UTC
+**Last updated:** 2026-10-18 07:36:54 UTC
